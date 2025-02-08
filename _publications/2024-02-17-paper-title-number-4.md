@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 4"
+title: "Smart Accident Recognition and Alerting System for Edge Devices"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+excerpt: 'This paper proposes an End-to-End Deep Learning solution to automate accident recognition and send real-time alerts to emergency services, that is the nearest hospitals and police stations. The proposed system is aimed to be deployed on edge devices attached to roadside CCTV cameras.'
+date: 2020-11-10
+venue: '2020 IEEE 5th International Conference on Computing Communication and Automation (ICCCA)'
+paperurl: 'https://ieeexplore.ieee.org/document/9250902'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
