@@ -40,6 +40,7 @@ Experienced software engineer with 4+ years in big tech and startups, specializi
 
 ### Sardar Patel Institute of Technology, Mumbai, India
 **Bachelor of Engineering, Computer Engineering** 
+
 *August 2017 – June 2021*
 
 ## Projects
