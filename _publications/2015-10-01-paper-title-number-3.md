@@ -1,13 +1,12 @@
 ---
-title: "Paper Title Number 3"
-collection: publications
-category: manuscripts
+title: "A Novel Hybrid Approach Towards Parking Space Occupancy Detection"
+collection: conferences
+category: conferences
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+excerpt: 'To ease the process of locating vacant parking spaces and making this information available for commuters, this paper proposes an end-to-end parking system. The system employs a combined approach, referred to as the Hybrid Model, using Mask R-CNN and YOLOv3 to determine the occupancy status of parking slots and update it in real-time for users to view.'
+date: 2021-11-03
+venue: '2021 12th International Conference on Computing Communication and Networking Technologies (ICCCNT)'
+paperurl: 'https://ieeexplore.ieee.org/document/9579816'
 citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 
