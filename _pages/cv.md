@@ -22,24 +22,25 @@ Experienced software engineer with 4+ years in big tech and startups, specializi
 - **Azure Migrate**: Built a feature to enable customers to plan their migration to 2 new Azure’s Security VMs - Confidential VMs and Trusted Launch VMs - and saw through their adoption increase by 180% YoY.
 - **LLM and AI/ML**: Mentored an intern to lead the development of a ChatBot that uses Large Language Models (LLMs) to answer technical queries in all domains. Deployed it as Docker container and created CI/CD pipelines for automation. This reduced the onboarding time for new members by 3 weeks.
 
-### Air India, Mumbai, India
+### Air India Limited, Mumbai, India
 **Software Engineer Intern**  
 *June 2019 - August 2019*
 
 - **AIESL Portal**: Achieved 10% faster loading time for the AIESL website portal by migrating the website to Django and MySQL database.
 - **Redesign**: Independently redesigned the website UI and UX according to high quality coding standards and practices.
 
-### Microsoft, Hyderabad, India
-**Software Engineer Intern**  
-*May 2019 - July 2019*
+### Aim4U Software Solutions, Mumbai, India
+**Backend and Research Intern**  
+*May 2018 - July 2019*
 
-- **Azure Repos Bot for Slack**: Developed a bot for Slack enabling users to interact with Azure Repos from Slack without leaving the platform.
+- **Research Intern**: Worked on fine-tuning various Image processing models for skin disease classification. This included building and pruning the dataset.
+- **Backend Intern**: Developed the appointment system from scratch, which allowed customers to view and book an appointment with a doctor of choice. This included viewing doctor's profiles, time slots blocking and acceptance of requested appointments. 
 
 ## Education
 
-### Birla Institute of Technology and Science, Pilani, Hyderabad, India
-**Bachelor of Engineering**  
-*August 2016 – June 2020*
+### Sardar Patel Institute of Technology, Mumbai, India
+**Bachelor of Engineering, Computer Engineering** 
+*August 2017 – June 2021*
 
 ## Projects
 
