@@ -9,18 +9,18 @@ redirect_from:
 
 ## Summary
 
-Experienced software engineer with 5+ years in big tech and startups, specializing in building scalable systems and delivering high-quality software used by millions. Worked in cross-geographical teams and consistently recognized as a top performer, earning early promotions and excellent ratings.
+Experienced software engineer with 4+ years in big tech and startups, specializing in building scalable systems and delivering high-quality software used by millions. Worked in cross-geographical teams and consistently recognized as a top performer, earning early promotions and excellent ratings.
 
 ## Experience
 
 ### Microsoft, Hyderabad, India
 **Software Engineer II**  
-*June 2020 - Present*
+*July 2021 - Present*
 
-- **Database watcher**: Delivered various features including authentication, monitoring, health validation, and scale, increasing scale and resiliency. Utilized MSAL, OpenTelemetry, and Resource validation.
-- **Extensibility**: Developed multiple micro-services for the extensibility charter of Azure Migrate, decreasing partner on-boarding time by 71%. Independently responsible for on-boarding MySQL partner by developing a Partner Orchestration Service.
-- **Appliance Configuration Manager**: Re-platformed the IIS-based Application Configuration Manager to a micro-service architecture with an Appliance service at its core, facilitating the discovery of around 1 million machines per month.
-- **Azure Portal**: Developed Azure portal blades, surpassing Azure standards of blade load times and other KPIs. Led the migration of KnockoutJS blades to the modern React framework, reducing blade load times and improving re-usability.
+- **XTokenManager**: Micro-Services to secure Azure VM generation through timely token rotations. Built End-to-End Authetication flow, added Metrics and logging systems for monitoring.
+- **Extensibility**: Led a team-wide effort on splitting the Monolith Assessment service into multiple Microservice platform, to make the product more robust and extensible for the future. This led to a decrease in partner onboarding time by 65%
+- **Azure Migrate**: Built a feature to enable customers to plan their migration to 2 new Azure’s Security VMs - Confidential VMs and Trusted Launch VMs - and saw through their adoption increase by 180% YoY.
+- **LLM and AI/ML**: Mentored an intern to lead the development of a ChatBot that uses Large Language Models (LLMs) to answer technical queries in all domains. Deployed it as Docker container and created CI/CD pipelines for automation. This reduced the onboarding time for new members by 3 weeks.
 
 ### AFour Technologies, Pune, India
 **Software Engineer Intern**  
