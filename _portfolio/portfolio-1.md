@@ -1,7 +1,7 @@
 ---
 title: "Movie Recommender System (Popcorn Time)"
 excerpt: "A personalized movie recommendation tool powered by MovieLens dataset
-<br/><img src='/images/500x300.png'>"
+<br/><img src='/images/popcornTime.png'>"
 collection: portfolio
 ---
 
