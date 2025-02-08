@@ -1,6 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Movie Recommender System (Popcorn Time)"
+excerpt: "A personalized movie recommendation tool powered by MovieLens dataset
+<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
