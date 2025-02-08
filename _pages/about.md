@@ -27,7 +27,6 @@ I post new content every month, and my blogs cover the following areas:
 - **Space** – Explore the mysteries of the cosmos, from the latest space missions to scientific discoveries.
 - **Movies** – Get my thoughts on the latest films, movie analysis, and hidden gems.
 - **Books** – Book recommendations, reviews, and insights from my recent reads.
-- **History** – Learn about historical events, figures, and the impact of the past on the present.
 
 ## Projects
 In addition to my blog, I showcase a variety of projects I’ve worked on. These projects reflect my interests in computer science, space, and beyond. Feel free to explore them and check out my GitHub for more!
@@ -36,8 +35,3 @@ In addition to my blog, I showcase a variety of projects I’ve worked on. These
 You can also view my CV, where I highlight my experience, skills, and professional background.
 
 Thank you for visiting, and I hope you enjoy reading my posts as much as I enjoy writing them!
-
-Stay tuned for my next monthly update!
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
