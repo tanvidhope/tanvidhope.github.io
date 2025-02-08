@@ -22,6 +22,13 @@ Experienced software engineer with 4+ years in big tech and startups, specializi
 - **Azure Migrate**: Built a feature to enable customers to plan their migration to 2 new Azure’s Security VMs - Confidential VMs and Trusted Launch VMs - and saw through their adoption increase by 180% YoY.
 - **LLM and AI/ML**: Mentored an intern to lead the development of a ChatBot that uses Large Language Models (LLMs) to answer technical queries in all domains. Deployed it as Docker container and created CI/CD pipelines for automation. This reduced the onboarding time for new members by 3 weeks.
 
+### Alphaslate, Mumbai, India
+**Software Engineer Intern**  
+*January 2020 - June 2020*
+
+- **Migration**: Migrated the website to ReactJs, improving the UX and load time by 60%.
+- **Video Calling Feature**: Integrated the Amazon Chime SDK into the product, enabling the teachers and students to hold video calls over website as well as the Mobile App.
+
 ### Air India Limited, Mumbai, India
 **Software Engineer Intern**  
 *June 2019 - August 2019*
