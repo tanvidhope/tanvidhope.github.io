@@ -1,7 +1,7 @@
 ---
 title: "Smart Accident Recognition and Alerting System for Edge Devices"
-collection: publications
-category: manuscripts
+collection: 
+category: 
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper proposes an End-to-End Deep Learning solution to automate accident recognition and send real-time alerts to emergency services, that is the nearest hospitals and police stations. The proposed system is aimed to be deployed on edge devices attached to roadside CCTV cameras.'
 date: 2020-11-10
