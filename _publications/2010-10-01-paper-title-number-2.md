@@ -1,13 +1,12 @@
 ---
-title: "Paper Title Number 2"
-collection: publications
-category: manuscripts
+title: "Capturing Cross-View Dynamics Using Recurrent Neural Networks for Multi-modal Sentiment Analysis"
+collection: conferences
+category: conferences
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+excerpt: 'This paper proposes a model that captures both dynamics, and applies attention over the contributing features from each modality, to predict utterance-level sentiments. A deep learning pipeline called the Cross-view Recurrent Neural Network Pair is introduced to compute cross-view dynamics and integrate them with view-specific dynamics, to obtain contextually rich utterance representations. '
+date: 2023-03-30
+venue: 'Intelligent Systems and Human Machine Collaboration'
+paperurl: 'https://link.springer.com/chapter/10.1007/978-981-19-8477-8_20'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
