@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "contrast"
+site_theme               : "default"
 title                    : "Tanvi Dhope"
 title_separator          : "-"
 name                     : &name "Tanvi Dhope"
